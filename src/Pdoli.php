@@ -1,7 +1,5 @@
 <?php
 
-namespace kongkawing;
-
 if (!class_exists('PDO')) {
     exit('Error: PHP PDO module not exist.');
 }

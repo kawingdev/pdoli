@@ -1,5 +1,3 @@
 .idea
-/*.php
-config.php
-
+#/*.php
 /vendor/

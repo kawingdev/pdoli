@@ -1,0 +1,18 @@
+{
+  "name": "kawingtech/pdoli",
+  "description": "a lightweight wrapper of PDO",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kong Ka Wing",
+      "email": "kawing_1989@hotmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "kawingtech\\": "src/"
+    }
+  }
+}
